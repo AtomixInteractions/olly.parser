@@ -11,10 +11,3 @@ export default class Olly {
     console.log(parse(this.d));
   }
 }
-
-
-
-me.haveSex(girlfriend);
-setTimeout(() => {
-  me.brain.activate({ level: 0.7 });
-}, 180e3);
