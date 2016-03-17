@@ -4,7 +4,7 @@
 
  [![Build Status](https://travis-ci.org/AtomixInteractions/olly.parser.svg?branch=master)](https://travis-ci.org/AtomixInteractions/olly.parser)
  ![Dependencies](https://david-dm.org/atomixinteractions/olly.parser.svg)
- [![npm version](https://badge.fury.io/js/nonstandard.svg)](https://npmjs.com/nonstandard)
+ [![npm version](https://badge.fury.io/js/olly.parser.svg)](https://npmjs.com/olly.parser)
  [![Code Climate](https://codeclimate.com/github/AtomixInteractions/olly.parser/badges/gpa.svg)](https://codeclimate.com/github/AtomixInteractions/olly.parser)
  [![Test Coverage](https://codeclimate.com/github/AtomixInteractions/olly.parser/badges/coverage.svg)](https://codeclimate.com/github/AtomixInteractions/olly.parser/coverage)
  [![bitHound Overalll Score](https://www.bithound.io/github/AtomixInteractions/olly.parser/badges/score.svg)](https://www.bithound.io/github/AtomixInteractions/olly.parser)
